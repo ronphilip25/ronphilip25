@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Joa2hxYW1scG5zaml6MHBvbjQxZGhrOWo3MXQ3b2l2OGNmanJwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  width="460" height="345">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Joa2hxYW1scG5zaml6MHBvbjQxZGhrOWo3MXQ3b2l2OGNmanJwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  width="500" height="500">
 </div>
 
 ### I'm Ron Philip Sanchez an aspiring Front-End Developer.
