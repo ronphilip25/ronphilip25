@@ -17,7 +17,7 @@
   
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="6.5%%"/>](https://www.facebook.com/ron.philip/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="6.5%"/>](https://www.instagram.com/@RonPhilip_/)  &nbsp; <a href="mailto:sanchezronphilip@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="6.5%"/>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ronphilip25&theme=transparent&fire=yellow&ring=yellow&sideNums=white&currStreakNum=white&dates=white&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ronphilip25)](https://git.io/streak-stats)
     
   
 [![ronphilip25's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayvie2007&theme=github_dark&card_width=1000px&show_icons=true)](https://github.com/ronphilip25/github-readme-stats)
