@@ -2,11 +2,14 @@
     
 </div>
 
+<div align="center">
 ### I'm Ron Philip Sanchez an aspiring Front-End Developer.
 
 - 🔭 I’m currently working on E-commerce and Portfolio websites...
 - 📖 I’m currently learning Reactjs and Nextjs frameworks...
 - 👨‍💼 I work as a freelancer Web designer...
+
+</div>
 
 <div align="center">
 <h3>Languages and Tools:</h3>
