@@ -21,6 +21,6 @@
 
 ![ronphilip25's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronphilip25&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronphilip25&exclude_repo=github-readme-stats,ronphilip25.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronphilip25&layout=donut-vertical)](https://github.com/ronphilip25/github-readme-stats)
 
 </div>
