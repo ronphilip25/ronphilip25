@@ -15,7 +15,7 @@
 
   <h3>Connect with Me:</h3>
   
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="6.5%%"/>](https://www.facebook.com/ron.philip/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="6.5%"/>](https://www.instagram.com/@ronPhilip_/)  &nbsp; <a href="mailto:sanchezronphilip@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="6.5%"/> &nbsp; [<img src="https://icons8.com/icon/437/twitter" width="6.5%"/>](https://www.facebook.com/@RonPhilip_/) 
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="6.5%%"/>](https://www.facebook.com/ron.philip/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="6.5%"/>](https://www.instagram.com/@ronPhilip_/)  &nbsp; <a href="mailto:sanchezronphilip@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="6.5%"/>
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ronphilip25&theme=transparent&fire=skyblue&ring=skyblue&sideNums=white&currStreakNum=white&dates=white&border_radius=10)](https://git.io/streak-stats)
 
