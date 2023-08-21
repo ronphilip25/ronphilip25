@@ -19,7 +19,7 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ronphilip25&theme=transparent&fire=skyblue&ring=skyblue&sideNums=white&currStreakNum=white&dates=white&border_radius=10)](https://git.io/streak-stats)
 
-![ronphilip25's GitHub stats](https://github-readme-stats.vercel.app/api?ronphilip25=anuraghazra&show_icons=true&theme=transparent)
+![ronphilip25's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronphilip25&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronphilip25&layout=pie)](https://github.com/ronphilip25/github-readme-stats)
   
