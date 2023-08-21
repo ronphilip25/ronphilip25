@@ -19,7 +19,7 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ronphilip25)](https://git.io/streak-stats)
 
-[![ronphilip25's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronphilip)](https://github.com/ronphilip25/github-readme-stats)
+![ronphilip25's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronphilip25&show_icons=true&theme=radical)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronphilip25&theme=github_dark&card_width=1000px&layout=compact&&hide=PowerShell,Batchfile,Hack&langs_count=10)](https://github.com/ronphilip25/github-readme-stats)
   
