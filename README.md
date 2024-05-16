@@ -2,7 +2,7 @@
     <img src="https://media.tenor.com/2dlM11dggxUAAAAC/patrick-computer.gif"  width="700" height="345">
 </div>
 
-### I'm Ron Philip Sanchez an aspiring Front-End Developer.
+### I'm Ron Philip Sanchez an aspiring Fullstack Developer.
 
 - 🔭 I’m currently working on E-commerce and Portfolio websites...
 - 📖 I’m currently learning Python and Django,React,Nextjs frameworks...
